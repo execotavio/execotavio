@@ -29,13 +29,6 @@ Let’s build something great. 🚀
 ---
 <img align="right" alt="Coding" width="600" src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif">
 
-
-🔭 I’m currently working @ ZF
-
-🌱 I’m currently learning **Laravel, Symfony, Spryker, Docker, RabbitMQ**
-
-📝 I regularly write articles on [https://dev.to/atomotavio](https://dev.to/atomotavio)
-
 📫 How to reach me **atomotavio@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -53,10 +46,10 @@ Let’s build something great. 🚀
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atomotavio&layout=compact&theme=radical&hide_border=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=execotavio&layout=compact&theme=radical&hide_border=true&hide_title=true)
 
-![Otávio's GitHub stats](https://github-readme-stats.vercel.app/api?username=atomotavio&show_icons=true&theme=radical&count_private=true&hide_border=true&hide_title=true)
+![Otávio's GitHub stats](https://github-readme-stats.vercel.app/api?username=execotavio&show_icons=true&theme=radical&count_private=true&hide_border=true&hide_title=true)
 
-[![Otávio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=atomotavio&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Otávio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=execotavio&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
