@@ -46,10 +46,10 @@ Let’s build something great. 🚀
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=execotavio&layout=compact&theme=radical&hide_border=true&hide_title=true)
+![Top Langs](github-readme-stats-32wp26u8p-atomotavios-projects.vercel.app/api/top-langs/?username=execotavio&layout=compact&theme=radical&hide_border=true&hide_title=true)
 
-![Otávio's GitHub stats](https://github-readme-stats.vercel.app/api?username=execotavio&show_icons=true&theme=radical&count_private=true&hide_border=true&hide_title=true)
+![Otávio's GitHub stats](github-readme-stats-32wp26u8p-atomotavios-projects.vercel.app/api?username=execotavio&show_icons=true&theme=radical&count_private=true&hide_border=true&hide_title=true)
 
-[![Otávio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=execotavio&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Otávio's wakatime stats](github-readme-stats-32wp26u8p-atomotavios-projects.vercel.app/api/wakatime?username=execotavio&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
